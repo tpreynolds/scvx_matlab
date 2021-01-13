@@ -1,0 +1,6 @@
+[submodule "utils/cvx"]
+	path = utils/cvx
+	url = https://github.com/cvxr/CVX.git
+[submodule "utils/ecos"]
+	path = utils/ecos
+	url = https://github.com/embotech/ecos-matlab.git

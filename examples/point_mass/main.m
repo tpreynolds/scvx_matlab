@@ -1,5 +1,5 @@
-clear; close all
-run('../utils/set_path.m')
+% initialize example
+run('../scvx_startup');
 
 % auxiliary parameters
 auxdata         = struct;

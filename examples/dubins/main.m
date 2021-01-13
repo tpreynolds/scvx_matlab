@@ -1,5 +1,5 @@
-clear; close all
-addpath('../../')
+% initialize example
+run('../scvx_startup');
 
 auxdata = struct;
 
